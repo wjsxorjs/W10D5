@@ -7,4 +7,3 @@
 > > 1. docker-compose.yml 파일 생성
 > > > 앱이 실행될 때 컨테이너 관리를 해준다.
 > > 2. `docker compose up`으로 compose 생성
-> > 3. 
